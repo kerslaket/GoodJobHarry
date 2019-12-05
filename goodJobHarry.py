@@ -26,7 +26,7 @@ while running == True:#keeps running the code while the programs open
         if num == 3:
             api.update_status("You know what. You're just the best @_harrycrocker")
         if num == 4:
-            api.update_status("You're doing a tit slappingly good job @_harrycrocker")
+            api.update_status("You're doing a really good job @_harrycrocker")
         if num == 5:
             api.update_status("Wow looking handsome today @_harrycrocker")
     except:
